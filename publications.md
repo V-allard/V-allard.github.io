@@ -13,11 +13,11 @@ title: Publications
 
 ### In preparation
 
-- ** Stability of superflows **
-  *L. Gavassino, N. Chamel and V. Allard *
+- **Stability of superflows**
+  *L. Gavassino, N. Chamel and V. Allard*
 
-- ** Collisions leading to SHE **
-  * P. Magierski, A. Makowski and V. Allard *
+- **Collisions leading to SHE**
+  *P. Magierski, A. Makowski and V. Allard*
 
 ## Publications in peer-reviewed internaional journals
 
