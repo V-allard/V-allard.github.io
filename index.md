@@ -1,10 +1,9 @@
 ---
-title: "Bienvenue sur mon site"
 layout: default
+title: Accueil
 ---
 
-# Salut 👋
+# Valentin Allard
 
-Ceci est ma page perso avec le thème **Cayman**.
-
-👉 Je parlerai ici de mes projets, publications, etc.
+Bienvenue sur ma page personnelle.  
+Vous trouverez ici mes travaux, publications, enseignements et plus encore.
