@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: "Valentin Allard"
+description: "Ma page personnelle"
+theme: null
+markdown: kramdown
