@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 2em auto;
+  padding: 1em;
+  background-color: #fff;
+  color: #111;
+  line-height: 1.6;
+  border: 1px solid #ddd;
+}
+
+.navbar {
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #ccc;
+}
+
+.navbar a {
+  margin-right: 1em;
+  text-decoration: none;
+  color: #0366d6;
+}
