@@ -31,13 +31,13 @@ This page contains an archive of all my scientific talks and posters, future and
 
 ## 🧾 Posters
 
-- **Doctoral School Joliot-Curie – “Nuclear Matter Under Pressure”**  
+- ** XMM-NEWTON 2024 Workshop: The X-Ray Mysteries Of Neutron Stars And White Dwarfs**  
   5–7 June 2024 (*ESAC, Madrid, Spain*)  
-  **Poster:** [Evidence of gapless neutron superfluidity from the late time cooling of transiently accreting neutron stars](https://www.cosmos.esa.int/web/xmm-newton/2024-workshop) 
+  **Poster:** [Evidence of gapless neutron superfluidity from the late time cooling of transiently accreting neutron stars](/assets/Poster_XMM_Newton_2024.pdf)
 
 - **Doctoral School Joliot-Curie – “Nuclear Matter Under Pressure”**  
   4–9 September 2022 (*Saint-Pierre d’Oléron, France*)  
-  **Poster:** [Gapless superfluidity and neutron star cooling](https://ejc2022.sciencesconf.org)
+  **Poster:** [Gapless superfluidity and neutron star cooling](/assets/Poster_EJC_2022.pdf)
 
 - **PHAROS Conference 2022 – “*The multi-messenger physics and astrophysics of neutron stars*”**  
   16–19 May 2022 (*Sapienza – University of Rome, Italy*)  
