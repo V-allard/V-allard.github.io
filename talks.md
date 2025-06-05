@@ -31,7 +31,7 @@ This page contains an archive of all my scientific talks and posters, future and
 
 ## 🧾 Posters
 
-- ** XMM-NEWTON 2024 Workshop: The X-Ray Mysteries Of Neutron Stars And White Dwarfs**  
+- **XMM-NEWTON 2024 Workshop: The X-Ray Mysteries Of Neutron Stars And White Dwarfs**  
   5–7 June 2024 (*ESAC, Madrid, Spain*)  
   **Poster:** [Evidence of gapless neutron superfluidity from the late time cooling of transiently accreting neutron stars](/assets/Poster_XMM_Newton_2024.pdf)
 
