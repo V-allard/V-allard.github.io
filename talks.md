@@ -29,6 +29,24 @@ This page contains an archive of all my scientific talks and posters, future and
   24–28 February 2020 (*Karpacz, Poland*)  
   **Talk:** [Entrainment effects in neutron-proton superfluid mixtures within the nuclear energy-density functional theory](https://indico.global/event/6642/contributions/54593/)
 
+## Seminars
+
+- **IAA Seminar**
+  13 March 2023 (*IAA, Université Libre de Bruxelles, Belgium*)
+  **Talk:** Gapless Superfluidity
+
+- **Nuclear Physics group Seminar**
+  26 January 2023 (*Warsaw University of Technology, Poland*)
+  **Talk:** Superfluidity with currents
+
+- **IAA Seminar**
+  13 January 2022 (*IAA, Université Libre de Bruxelles, Belgium*)
+  **Talk:** Gapless superfluidity and neutron star cooling
+
+- **IAA Seminar**
+  January 2020 (*IAA, Université Libre de Bruxelles, Belgium*)
+  **Talk:** Entrainment effects in neutron-proton superfluid mixtures within the nuclear energy-density functional theory
+
 ## 🧾 Posters
 
 - **XMM-NEWTON 2024 Workshop - "*The X-Ray Mysteries Of Neutron Stars And White Dwarfs*"**  
