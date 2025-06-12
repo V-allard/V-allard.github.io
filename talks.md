@@ -31,20 +31,20 @@ This page contains an archive of all my scientific talks and posters, future and
 
 ## Seminars
 
-- **IAA Seminar**
-  13 March 2023 (*IAA, Université Libre de Bruxelles, Belgium*)
+- **IAA Seminar**<br>
+  13 March 2023 (*IAA, Université Libre de Bruxelles, Belgium*)<br>
   **Talk:** Gapless Superfluidity
 
-- **Nuclear Physics group Seminar**
-  26 January 2023 (*Warsaw University of Technology, Poland*)
+- **Nuclear Physics group Seminar**<br>
+  26 January 2023 (*Warsaw University of Technology, Poland*)<br>
   **Talk:** Superfluidity with currents
 
-- **IAA Seminar**
-  13 January 2022 (*IAA, Université Libre de Bruxelles, Belgium*)
+- **IAA Seminar**<br>
+  13 January 2022 (*IAA, Université Libre de Bruxelles, Belgium*)<br>
   **Talk:** Gapless superfluidity and neutron star cooling
 
-- **IAA Seminar**
-  January 2020 (*IAA, Université Libre de Bruxelles, Belgium*)
+- **IAA Seminar**<br>
+  January 2020 (*IAA, Université Libre de Bruxelles, Belgium*)<br>
   **Talk:** Entrainment effects in neutron-proton superfluid mixtures within the nuclear energy-density functional theory
 
 ## 🧾 Posters
