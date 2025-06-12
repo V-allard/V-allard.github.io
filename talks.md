@@ -10,7 +10,7 @@ This page contains an archive of all my scientific talks and posters, future and
 ## 📢 Talks
 
 - **ECT\*, Nonequilibrium phenomena in superfluid systems: atomic nuclei, liquid helium, ultracold gases, and neutron stars**  
-  –12–16 May 2025 (*ECT\*, Trento, Italy*)  
+  12–16 May 2025 (*ECT\*, Trento, Italy*)  
   **Talk:** [Superfluid hydrodynamics in neutron stars](https://indico.ectstar.eu/event/234/contributions/5547/)
 
 - **EOS Manaslu Workshop**  
