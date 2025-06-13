@@ -15,17 +15,6 @@ My PhD thesis is entitled *Superfluid dynamics in neutron stars*. It was conduct
 
 ## Abstract
 
-
-<figure>
-  <img src="/assets/images/NSSchema.png" alt="Isolated NS" style="max-width: 100%; height: auto;">
-  <figcaption>
-    <strong>Figure 1:</strong> Schematic representation of an isolated superfluid neutron star.
-  </figcaption>
-</figure>
-
-
-
-
   Born from gravitational-core collapse supernovae, neutron stars provide a unique opportunity to explore matter under extreme conditions not reproducible on Earth. In particular, neutron stars contain nuclear superfluids whose presence is supported by observations of pulsar frequency glitches, rapid decline in luminosity of the Cassiopeia A remnant and crust cooling of neutron stars in low-mass X-ray binaries. In this work, the influence of temperature and currents in hot neutron-proton
 superfluid mixtures is studied within the nuclear energy-density functional theory: numerical computations using the Brussels-Montreal functionals are performed and the accuracy of several approximations is assessed. The complex superfluid dynamics are investigated and clarified.  The disappearance of superfluidity is also investigated and reveals the presence of a dynamical *gapless* state, characterized by the appearance of a normal fluid (whose properties are investigated) which is found to affect considerably the neutron specific heat and, thus, the thermal properties of neutron stars. Implications for the crust cooling of neutron stars in low-mass X-ray binaries are discussed. Focusing on two particular cases, for which the interpretation of their cooling has been challenged, cooling simulations allowing for neutrons in gapless state are performed. The results suggest that the gapless state plays a key role and reconciles astrophysical observations with microscopic theories of superfluidity. Implications of gapless superfluidity to neutron vortex dynamics are discussed and predictions, that could be tested by future observations, are also made.
 
@@ -35,7 +24,12 @@ Neutron stars, Ultracold quantum gases, Nuclear astrophysics, Energy-density fun
 
 ## Summary 
 
--- IN CONSTRUCTION -- 
+<figure>
+  <img src="/assets/images/NSSchema.png" alt="Isolated NS" style="max-width: 50%; height: auto;">
+  <figcaption>
+    <strong>Figure 1:</strong> Schematic representation of an isolated superfluid neutron star.
+  </figcaption>
+</figure>
 
   Neutron stars are born from the gravitational-core collapse of massive stars during supernovae. These stars, with masses of the order of that of the Sun but with radii of only about 10 kilometers, are extremely dense and exotic. Initially hot, with temperatures as high as 10<sup>11</sup>−10<sup>12</sup> K, these compact stars rapidly cool down within days to 10<sup>9</sup> K [1]. This sharp decline of temperature thus allows for quantum phase transitions which are not observed in other
 celestial bodies. Similar to electrons in terrestrial superconductors, free neutrons and protons in the inner regions of mature neutron stars are predicted
@@ -43,6 +37,14 @@ to form Bardeen-Cooper-Schrieffer (BCS) condensates of <sup>1</sup>S<sub>0</sub>
 
   Although many studies have been devoted to pulsar glitches, they often neglect non-dissipative couplings between neutrons and protons. These dynamical couplings, called "entrainment effects", are of the same kind as those discussed in the context of superfluid <sup>4</sup>He-<sup>3</sup>He mixtures [6] and constitute key microscopic ingredients for modeling neutron star dynamics and oscillations [7]. These mutual entrainment effects have been previously estimated [8], but within phenomenological frameworks where the equation of state, the critical temperatures for superfluidity, and the composition all need to be provided by a more microscopic theory. On the other hand, studies of neutron star cooling also neglect entrainment effects between neutron and proton superfluids. Worse still, these cooling studies assume static superfluids, ignoring superfluid dynamics that are crucial for the interpretation of pulsar glitches and that
 naturally arise in the recycling scenario of low-mass X-ray binaries, where the neutron star accretes both mass and angular momentum [9] (See Figure 2). These limitations have led to discrepancies, such as the fine-tuning of neutron superfluid properties required to explain observations in some low-mass X-ray binary systems [10] — results that often contradict microscopic calculations [11]. The interplay between thermal and dynamical aspects of neutron star superfluidity has not been adequately emphasized in the context of neutron star cooling. This work attempts to bridge this gap by studying both aspects. The dynamical effects are introduced in a parametrized form derived from investigations of nuclear matter within the self-consistent Nuclear Energy-Density Functional Theory (NEDFT) framework [12].
+
+<figure>
+  <img src="/assets/images/GaplessNSSchema.png" alt="Accreting NS" style="max-width: 50%; height: auto;">
+  <figcaption>
+    <strong>Figure 2:</strong> Schematic representation of the recycling scenario. Matter accretion from a massive companion star spins up the outer crust of the neutron star, triggering finite superfluid currents.
+  </figcaption>
+</figure>
+
 
   The first contribution of this work is the microscopic calculation, within the framework of NEDFT, of entrainment effects in neutron-proton superfluid mixtures as found in neutron star cores. The evolution equations of NEDFT were solved analytically, yielding to exact expressions for the entrainment couplings. The different velocity fields were also clarified: the velocities governing the mass transport of neutrons and protons were formally derived and shown to generally differ from the so-called ‘superfluid velocities’ introduced in the condensed-matter physics literature. These calculations were particularly challenging due to the complexities arising from the nonlinear nature of the self-consistent time-dependent Hartree-Fock Bogoliubov (TDHFB) equations which govern the NEDFT framework. This formal work was published in Ref. [13]
 
@@ -52,6 +54,14 @@ naturally arise in the recycling scenario of low-mass X-ray binaries, where the 
 
   Possible astrophysical manifestations of gapless superfluidity were then
 explored in the cooling of transiently accreting neutron stars in low-mass X-ray binaries [5]. Some of these systems had been found to challenge the current understanding within the standard cooling model which ignores the influence of superfluid currents thus predicting too fast a thermal relaxation of the neutron star [23] [24]. However, the accretion of matter from its companion star can spin up the neutron star and generate finite superfluid currents [9] (as shown in Figure 2). The final part of this work showed that, under these conditions, the neutron superfluid can enter the gapless state. In this state, the thermal relaxation of the neutron star is delayed and the puzzling late-time cooling observations can be naturally explained in agreement with microscopic calculations of neutron superfluidity. This constitutes the major achievement of this work and this was published in Ref. [25]. Extensive numerical cooling simulations were performed and the uncertainties in the fitting parameters were assessed through a Markov-Chain Monte Carlo approach. Results from additional cooling simulations, varying the composition of the atmosphere, the accretion rate and the global structure of the neutron star, were presented in Ref. [26] and predictions (which could be tested by further cooling observations) were also made. Potential ways to further improve this thermal cooling model including superfluid dynamics were also thoroughly discussed. This gapless state could also be relevant for the cooling of other promising sources (which were mentioned in this work as potential subjects for future studies) and may also leave imprints on other phenomena.
+
+<figure>
+  <img src="/assets/images/MXBCooling.pdf" alt="Cooling NS" style="max-width: 50%; height: auto;">
+  <figcaption>
+    <strong>Figure 3:</strong> Evolution of the effective surface temperature of the neutron star in the soft X-ray transient MXB 1659-29 as a function of time (after the end of the accretion). The blue dashed curve represents cooling with a static neutron superfluid in the crust, while the red solid curve represents the cooling with neutrons in gapless state. Dark points correspond to observed temperatures (with their associated error bars).
+  </figcaption>
+</figure>
+
 
 ### References
 
