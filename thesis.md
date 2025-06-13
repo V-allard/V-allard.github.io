@@ -44,37 +44,37 @@ explored in the cooling of transiently accreting neutron stars in low-mass X-ray
 
 ### References
 
-[1] Potekhin, A.Y., Pons, J.A., & Page, D. (2015). Space Sci. Rev. 2015, 191, 239–291.
-[2] Sedrakian, A., & Clark, J. W. (2019). Eur. Phys. J. A 55, 167.
+[1] Potekhin, A.Y., Pons, J.A., & Page, D. (2015). Space Sci. Rev. 2015, 191, 239–291.<br>
+[2] Sedrakian, A., & Clark, J. W. (2019). Eur. Phys. J. A 55, 167.<br>
 [3] Antonopoulou, D., Haskell, B., & Espinoza, C. M. (2022). Rep. Prog. Phys., 85(12),
-126901.
+126901.<br>
 [4] Ho, W. C. G., Elshamouty, K. G., Heinke, C. O., & Potekhin, A. Y. (2015). Phys. Rev.
-C, 91(1), 015806.
-[5] Wijnands, R., Degenaar, N., & Page, D. (2017). J. Astrophys. Astron., 38, 49.
-[6] Andreev, A., & Bashkin, E. (1975). Sov. J. Exp. Theor. Phys., 42, 164.
-[7] Andersson, N. (2021). Universe, 7(1), 17.
-[8] Leinson, L. B. (2018). Mon. Not. R. Astron. Soc., 479(3), 3778–3790.
+C, 91(1), 015806.<br>
+[5] Wijnands, R., Degenaar, N., & Page, D. (2017). J. Astrophys. Astron., 38, 49.<br>
+[6] Andreev, A., & Bashkin, E. (1975). Sov. J. Exp. Theor. Phys., 42, 164.<br>
+[7] Andersson, N. (2021). Universe, 7(1), 17.<br>
+[8] Leinson, L. B. (2018). Mon. Not. R. Astron. Soc., 479(3), 3778–3790.<br>
 [9] Radhakrishnan, V.; Srinivasan, G., Radhakrishnan, V., & Srinivasan, G. (1982). Curr.
-Sci., 51, 1096–1099.
-[10] Turlione, A., Aguilera, D. N., & Pons, J. A. (2015). Astron. Astrophys., 577, A5.
+Sci., 51, 1096–1099.<br>
+[10] Turlione, A., Aguilera, D. N., & Pons, J. A. (2015). Astron. Astrophys., 577, A5.<br>
 [11] Gandolfi, S., Palkanoglou, G., Carlson, J., Gezerlis, A., & Schmidt, K. E. (2022).
-Condens. Matter, 7(1), 19.
-[12] Schunck, N. (2019). IOP Publ.
-[13] Allard, V., & Chamel, N. (2021). Phys. Rev. C, 103(2), 025804.
-[14] Goriely, S., Chamel, N., & Pearson, J. M. (2013). Phys. Rev. C, 88(2), 024308.
+Condens. Matter, 7(1), 19.<br>
+[12] Schunck, N. (2019). IOP Publ.<br>
+[13] Allard, V., & Chamel, N. (2021). Phys. Rev. C, 103(2), 025804.<br>
+[14] Goriely, S., Chamel, N., & Pearson, J. M. (2013). Phys. Rev. C, 88(2), 024308.<br>
 [15] Pearson, J. M., Chamel, N., Potekhin, A. Y., Fantina, A. F., Ducoin, C., Dutta, A.
-K., & Goriely, S. (2018). Mon. Not. R. Astron. Soc., 481(3), 2994–3026.
-[16] Perot, L., Chamel, N., & Sourie, A. (2019). Phys. Rev. C, 100(3), 035801.
-[17] Perot, L., & Chamel, N. (2021). Phys. Rev. C, 103(2), 025801
-[18] Allard, V., & Chamel, N. (2021). Universe, 7(12), 470.
-[19] Bardeen, J., Cooper, L. N., & Schrieffer, J. R. (1957). Phys. Rev., 108(5), 1175.
+K., & Goriely, S. (2018). Mon. Not. R. Astron. Soc., 481(3), 2994–3026.<br>
+[16] Perot, L., Chamel, N., & Sourie, A. (2019). Phys. Rev. C, 100(3), 035801.<br>
+[17] Perot, L., & Chamel, N. (2021). Phys. Rev. C, 103(2), 025801<br>
+[18] Allard, V., & Chamel, N. (2021). Universe, 7(12), 470.<br>
+[19] Bardeen, J., Cooper, L. N., & Schrieffer, J. R. (1957). Phys. Rev., 108(5), 1175.<br>
 [20] Tuo, Y., Serim, M. M., Antonelli, M., Ducci, L., Vahdat, A., Ge, M., Santangelo, A.,
-& Xie, F. (2023). Astrophys. J. Lett., 967(1), L13.
-[21] Allard, V., & Chamel, N. (2023). Phys. Rev. C, 108(4), 045801.
-[22] Allard, V., & Chamel, N. (2023). Phys. Rev. C, 108(1), 015801.
+& Xie, F. (2023). Astrophys. J. Lett., 967(1), L13.<br>
+[21] Allard, V., & Chamel, N. (2023). Phys. Rev. C, 108(4), 045801.<br>
+[22] Allard, V., & Chamel, N. (2023). Phys. Rev. C, 108(1), 015801.<br>
 [23] Cackett, E. M., Brown, E. F., Cumming, A., Degenaar, N., & Wijnands, R. (2010).
-Astrophys. J. Lett., 722(1), L137.
+Astrophys. J. Lett., 722(1), L137.<br>
 [24] Cackett, E., Brown, E., Cumming, A., Degenaar, N., Fridriksson, J. K., Homan, J.,
-Miller, J., & Wijnands, R. (2013). Astrophys. J., 774(1), 131.
-[25] Allard, V., & Chamel, N. (2024). Phys. Rev. Lett., 132(18), 181001.
-[26] Allard, V., & Chamel, N. (2024). Eur. Phys. J. A, 60(5), 1–30.
+Miller, J., & Wijnands, R. (2013). Astrophys. J., 774(1), 131.<br>
+[25] Allard, V., & Chamel, N. (2024). Phys. Rev. Lett., 132(18), 181001.<br>
+[26] Allard, V., & Chamel, N. (2024). Eur. Phys. J. A, 60(5), 1–30.<br>
