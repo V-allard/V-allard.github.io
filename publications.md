@@ -39,7 +39,7 @@ title: Publications
 - **Gapless superfluidity in neutron stars – Normal fluid fraction**  
   *V. Allard and N. Chamel*  
   *Physical Review C 108, 045801 (2023)*  
-  [[DOI](https://doi.org/10.1103/PhysRevC.108.045801)]
+  [[DOI](https://doi.org/10.1103/PhysRevC.108.045801)] [[arXiv](https://arxiv.org/abs/2506.10649)]
 
 - **Gapless superfluidity in neutron stars – Thermal properties**  
   *V. Allard and N. Chamel*  
