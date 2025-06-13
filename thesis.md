@@ -8,9 +8,9 @@ title: Publications
 My PhD thesis is entitled *Superfluid dynamics in neutron stars*. It was conducted under the supervision of Prof. Nicolas Chamel (I.A.A. and BRU-ULB, Université Libre de Bruxelles). This work was financially supported by the Fonds de la Recherche Scientifique (Belgium) under Grants No. PDR T.004320. The jury was composed of Michel Tytgat (President), Wouter Ryssens (Examiner), Anthea Francesca Fantina (Examiner), and Piotr Magierski (Examiner), as well as my supervisor Nicolas Chamel.
 
 - 📘 The manuscript is accessible [**here**](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/374037/Holdings).
-- The private defense took place on April 29, 2024 at Université Libre de Bruxelles, in the sole presence of the jury.
+- The private defense took place on April 29, 2024 at Université Libre de Bruxelles, in the sole presence of the jury.<br>
   🖥️ [**Slides** (PDF)](/assets/Slides_private.pdf).
-- The public defense (intended to be a less technical and more accessible presentation) took place at Université Libre de Bruxelles (Forum E, Plaine Campus) on Tuesday, May 21, 2024 at 2 pm.
+- The public defense (intended to be a less technical and more accessible presentation) took place at Université Libre de Bruxelles (Forum E, Plaine Campus) on Tuesday, May 21, 2024 at 2 pm.<br>
   🖥️ [**Slides** (PDF)](/assets/Slides_public.pdf).
 
 ## Abstract
