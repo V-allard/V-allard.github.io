@@ -15,6 +15,17 @@ My PhD thesis is entitled *Superfluid dynamics in neutron stars*. It was conduct
 
 ## Abstract
 
+
+<figure>
+  <img src="/assets/images/NSSchema.png" alt="Isolated NS" style="max-width: 100%; height: auto;">
+  <figcaption>
+    <strong>Figure 1:</strong> Schematic representation of an isolated superfluid neutron star.
+  </figcaption>
+</figure>
+
+
+
+
   Born from gravitational-core collapse supernovae, neutron stars provide a unique opportunity to explore matter under extreme conditions not reproducible on Earth. In particular, neutron stars contain nuclear superfluids whose presence is supported by observations of pulsar frequency glitches, rapid decline in luminosity of the Cassiopeia A remnant and crust cooling of neutron stars in low-mass X-ray binaries. In this work, the influence of temperature and currents in hot neutron-proton
 superfluid mixtures is studied within the nuclear energy-density functional theory: numerical computations using the Brussels-Montreal functionals are performed and the accuracy of several approximations is assessed. The complex superfluid dynamics are investigated and clarified.  The disappearance of superfluidity is also investigated and reveals the presence of a dynamical *gapless* state, characterized by the appearance of a normal fluid (whose properties are investigated) which is found to affect considerably the neutron specific heat and, thus, the thermal properties of neutron stars. Implications for the crust cooling of neutron stars in low-mass X-ray binaries are discussed. Focusing on two particular cases, for which the interpretation of their cooling has been challenged, cooling simulations allowing for neutrons in gapless state are performed. The results suggest that the gapless state plays a key role and reconciles astrophysical observations with microscopic theories of superfluidity. Implications of gapless superfluidity to neutron vortex dynamics are discussed and predictions, that could be tested by future observations, are also made.
 
