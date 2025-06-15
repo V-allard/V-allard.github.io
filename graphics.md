@@ -5,8 +5,12 @@ Scientific research often involves abstract and complex phenomena that can be ch
 
 <figure style="text-align: center; margin: 1em 0;">
   <div style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap;">
-    <img src="/assets/images/ManasluLogov1.pdf" alt="Manaslu Logo Full" style="max-width: 45%; height: auto;">
-    <img src="/assets/images/ManasluLogoShortened.pdf" alt="Manaslu Logo Reduced" style="max-width: 45%; height: auto;">
+    <div style="flex: 1 1 300px; display: flex; justify-content: center;">
+      <img src="/assets/images/ManasluLogov1.pdf" alt="Manaslu Logo Full" style="height: auto; max-height: 300px; width: auto; max-width: 100%;">
+    </div>
+    <div style="flex: 1 1 300px; display: flex; justify-content: center;">
+      <img src="/assets/images/ManasluLogoShortened.pdf" alt="Manaslu Logo Reduced" style="height: auto; max-height: 300px; width: auto; max-width: 100%;">
+    </div>
   </div>
   <figcaption style="margin-top: 0.5em;">
     <strong>Figure 1:</strong> Scientific logo for 
@@ -30,8 +34,12 @@ Scientific research often involves abstract and complex phenomena that can be ch
 
 <figure style="text-align: center; margin: 1em 0;">
   <div style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap;">
-    <img src="/assets/images/GaplessNSSchemaV3.pdf" alt="Accreting Neutron star (V1)" style="max-width: 45%; height: auto;">
-    <img src="/assets/images/GaplessNSSchemaV1.pdf" alt="Accreting Neutron star (V2)" style="max-width: 45%; height: auto;">
+    <div style="flex: 1 1 300px; display: flex; justify-content: center;">
+      <img src="/assets/images/GaplessNSSchemaV3.pdf" alt="Accreting Neutron star (V1)" style="height: auto; max-height: 300px; width: auto; max-width: 100%;">
+    </div>
+    <div style="flex: 1 1 300px; display: flex; justify-content: center;">
+      <img src="/assets/images/GaplessNSSchemaV1.pdf" alt="Accreting Neutron star (V2)" style="height: auto; max-height: 300px; width: auto; max-width: 100%;">
+    </div>
   </div>
   <figcaption style="margin-top: 0.5em;">
     <strong>Figure 3:</strong> Schematic representations of an accreting neutron star in a low-mass X-ray binary (LMXB). Mass is transferred from a companion star via Roche-lobe overflow, forming an accretion disk. The evolution of the neutron star spin is driven by accreted angular momentum. Internally, a decoupled neutron superfluid component (rotating at angular velocity &Omega;<sub>m</sub>) coexists with the normal matter (rotating at &Omega;), allowing for differential rotation and internal angular momentum exchange.
