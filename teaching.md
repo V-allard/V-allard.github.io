@@ -5,7 +5,7 @@ title: Teaching
 
 
 <figure style="text-align: center; margin: 1em 0;">
-  <img src="/assets/images/Tableau.jpg" alt="Equations" style="max-width: 50%; height: auto;">
+  <img src="/assets/images/Tableau.jpg" alt="Equations" style="max-width: 25%; height: auto;">
 </figure>
 
 # Teaching (University)
