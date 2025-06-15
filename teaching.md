@@ -3,6 +3,11 @@ layout: default
 title: Teaching
 ---
 
+
+<figure style="text-align: center; margin: 1em 0;">
+  <img src="/assets/images/Tableau.jpg" alt="Equations" style="max-width: 50%; height: auto;">
+</figure>
+
 # Teaching (University)
 
 - **2019–2023: Physique** ([PHYS-F-103](https://www.ulb.be/en/programme/phys-f103)), _Teaching Assistant_, Université Libre de Bruxelles (5 ECTS, 24h per academic year).
