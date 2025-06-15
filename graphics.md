@@ -4,7 +4,7 @@ Scientific research often involves abstract and complex phenomena that can be ch
 
 
 <figure style="text-align: center; margin: 1em 0;">
-  <img src="/assets/images/ManasluLogov1.pdf" alt="Manaslu Logo" style="max-width: 50%; height: auto;">
+  <img src="/assets/images/ManasluLogov1.pdf" alt="Manaslu Logo" style="max-width: 80%; height: auto;">
   <img src="/assets/images/ManasluLogoShortened.pdf" alt="Manaslu Logo Reduced" style="max-width: 50%; height: auto;">
   <figcaption style="margin-top: 0.5em;">
     <strong>Figure 1:</strong> Scientific logo for 
