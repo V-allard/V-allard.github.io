@@ -29,7 +29,7 @@ title: Publications
 - **Gapless neutron superfluidity in the crust of the accreting neutron stars KS 1731−260 and MXB 1659−29**  
   *V. Allard and N. Chamel*  
   *European Physical Journal A 60, 116 (2024)*  
-  [[DOI](https://doi.org/10.1140/epja/s10050-024-01106-5)] [[arXiv](https://arxiv.org/abs/2506.11693)]
+  [[DOI](https://doi.org/10.1140/epja/s10050-024-01329-z)] [[arXiv](https://arxiv.org/abs/2506.11693)]
   
 - **Gapless Neutron Superfluidity Can Explain the Late Time Cooling of Transiently Accreting Neutron Stars**  
   *V. Allard and N. Chamel*  
