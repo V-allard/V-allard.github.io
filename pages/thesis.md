@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Publications
+title: Thesis
+permalink: /thesis/
 ---
+
 
 # Superfluid dynamics in neutron stars
 
