@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Talks & Posters
+title: Talks
+permalink: /talks/
 ---
+
 
 # Presentations
 
