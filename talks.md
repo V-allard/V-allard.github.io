@@ -50,7 +50,7 @@ This page contains an archive of all my scientific talks and posters, future and
 ## 🧾 Posters
 
 - **European Astronomical Society - Annual Meeting 2025**<br>
-  23-27 June 2025 (*University College Cork, Ireland*)<br>  
+  23-27 June 2025 (*University College Cork, Ireland*)  
   **Poster:** [Cooling of transiently accreting neutron stars and gapless neutron superfluidity](https://k-poster.kuoni-congress.info/eas-2025/poster/31069506-43B0-4E24-A70A-A587F7F95FA6)
 
 - **XMM-NEWTON 2024 Workshop - "*The X-Ray Mysteries Of Neutron Stars And White Dwarfs*"**  
