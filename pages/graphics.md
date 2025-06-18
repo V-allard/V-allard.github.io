@@ -1,3 +1,10 @@
+---
+layout: default
+title: Graphics
+permalink: /graphics/
+---
+
+
 # Scientific Illustrations
 
 Scientific research often involves abstract and complex phenomena that can be challenging to convey in words alone. Over the years, I have created various diagrams and illustrations using **Inkscape** — and with **no use of generative AI** — for scientific communication, public outreach as well as logo designs for scientific projects and collaborations. This section showcases some of those visuals — whether used in presentations, papers, or posters — aiming to distill ideas in nuclear physics, astrophysics, and quantum matter into visually intuitive forms.
