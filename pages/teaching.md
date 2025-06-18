@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Teaching
+permalink: /teaching/
 ---
+
 
 
 <figure style="text-align: center; margin: 1em 0;">
