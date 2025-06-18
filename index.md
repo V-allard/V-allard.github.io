@@ -13,4 +13,5 @@ My work focuses on the dynamical and thermal properties of these nuclear superfl
 
 Within this framework, we have shown the existence of a dynamical nuclear superfluid state known as a “gapless state”, where superfluidity persists despite the absence of a gap in the quasiparticle excitation spectrum. This state, sustained by the pinning of quantized neutron vortices in the crust, has a strong impact on neutron star dynamics and their thermal properties. Observations of transiently accreting neutron stars have recently provided potential evidence for such a gapless state in their interiors.
 
-On this website, you will find a list of my publications, the slides of all my presentations since 2020, as well as my complete Curriculum Vitae.
+On this website, you will find a list of my publications, the slides of all my presentations since 2020, as well as my complete Curriculum Vitae. This website is powered by Jekyll, a lightweight static site generator. It currently uses the minimalist and clean Cayman theme, provided by the GitHub Pages team.
+
