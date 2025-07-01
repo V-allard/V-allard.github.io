@@ -1,6 +1,132 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Valentin Allard</title>
+  <link rel="stylesheet" href="/assets/style.css" />
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      min-height: 100vh;
+      background-color: #111;
+      color: white;
+      font-family: sans-serif;
+    }
+
+    .sidebar {
+      width: 280px;
+      background-color: #222;
+      padding: 2rem 1rem;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .sidebar img {
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 1rem;
+    }
+
+    .sidebar h1 {
+      margin: 0.5rem 0 0.2rem;
+      font-size: 1.4rem;
+    }
+
+    .sidebar p {
+      font-size: 0.9rem;
+      margin: 0.2rem 0;
+      text-align: center;
+    }
+
+    .main-content {
+      flex-grow: 1;
+      padding: 2rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .navbar {
+      margin: 1rem 0 2rem;
+      text-align: center;
+    }
+
+    .navbar a {
+      color: white;
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+
+    .navbar a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 2rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <img src="/assets/images/PhotoCV.png" alt="Valentin Allard">
+    <h1>Valentin Allard</h1>
+    <p>Assistant professor</p>
+    <p>Nuclear Physics and Astrophysics</p>
+    <p>valentin.allard[at]pw.edu.pl</p>
+    <p>+48 789 598 536</p>
+    <p>Room 108, WUT</p>
+  </div>
+
+  <div class="main-content">
+    <nav class="navbar">
+      <a href="/">Home</a>
+      <a href="/thesis/">Thesis</a>
+      <a href="/cv/">CV</a>
+      <a href="/publications/">Publications</a>
+      <a href="/teaching/">Teaching</a>
+      <a href="/talks/">Talks</a>
+      <a href="/graphics/">Graphics</a>
+    </nav>
+
+    <h2>Welcome to my academic homepage</h2>
+
+    <p> My name is Valentin; I am an assistant professor at the Warsaw University of Technology. My research lies at the intersection of theoretical nuclear physics, astrophysics, cold matter, and computational modeling. 
+      I am particularly interested in neutron stars — the cold, compact stellar remnants formed in the aftermath of gravitational core-collapse supernovae. In such extreme environments, the ultra-dense nuclear matter in their interiors is expected to undergo a variety of quantum phase transitions, some of which are analogous to those observed in terrestrial laboratories. 
+      Similar to electrons in conventional (terrestrial) superconductors, free neutrons in the inner crust and outer core of neutron stars are predicted to form Bardeen–Cooper–Schrieffer (BCS) superfluid condensates of Cooper pairs. </p>
+      
+      <p>My work focuses on the dynamical and thermal properties of these nuclear superfluid phases, from the inhomogeneous neutron superfluid in the crust to the neutron–proton mixture in the core. 
+      These phases are believed to play a crucial role in various astrophysical phenomena involving neutron stars, including pulsar glitches, neutron star cooling, astroseismology, gravitational wave emission, and neutron star mergers. 
+      Those nuclear superfluids are modeled within the self-consistent time-dependent nuclear energy density functional theory — a powerful and unified framework that allows to study nuclear matter, nuclear structure, and cold astrophysical environments on the same footing. 
+      It incorporates as much nuclear physics input as possible while remaining computationally tractable.</p>
+
+      <p>Within this framework, we have shown the existence of a dynamical nuclear superfluid state known as a “gapless state”, where superfluidity persists despite the absence of a gap in the quasiparticle excitation spectrum. 
+      This state, sustained by the pinning of quantized neutron vortices in the crust, has a strong impact on neutron star dynamics and their thermal properties. 
+      Observations of transiently accreting neutron stars have recently provided potential evidence for such a gapless state in their interiors.</p>
+
+      <p>On this website, you will find a list of my publications, the slides of all my presentations since 2020, as well as my complete Curriculum Vitae. 
+      This website is powered by Jekyll, a lightweight static site generator. It currently uses the minimalist and clean Cayman theme, provided by the GitHub Pages team.</p>
+    
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2025 Valentin Allard</p>
+    </div>
+  </footer>
+</body>
+</html>
+
+
+<!--
+<!DOCTYPE html>
+<html lang="en">
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Valentin Allard</title>
@@ -13,8 +139,6 @@
       <p class="subtitle">Assistant professor (Nuclear Physics and Astrophysics)</p>
       <p style="font-size: 0.9rem; color: white; margin: -0.5rem 0 0.1rem 0;">valentin.allard[at]pw.edu.pl</p>
       <p style="font-size: 0.9rem; color: white; margin: 0;">+48 789 598 536</p>
-      <!-- <p style="font-size: 0.9rem; color: white; margin-top: -0.5rem;">valentin.allard[at]pw.edu.pl</p>
-      <p style="font-size: 0.9rem; color: white; margin-top: -0.5rem;">+48789598536</p> -->
     </div>
   </header>
 
@@ -53,4 +177,4 @@
     </div>
   </footer>
 </body>
-</html>
+</html> -->
