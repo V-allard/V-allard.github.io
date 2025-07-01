@@ -7,73 +7,76 @@
   <link rel="stylesheet" href="/assets/style.css" />
   <style>
     body {
-      margin: 0;
-      padding: 0;
-      display: flex;
-      min-height: 100vh;
-      background-color: #111;
-      color: white;
-      font-family: sans-serif;
-    }
+  margin: 0;
+  padding: 0;
+  display: flex;
+  min-height: 100vh;
+  background-color: #f6f8fa;
+  color: #111;
+  font-family: "Lato", sans-serif;
+}
 
-    .sidebar {
-      width: 280px;
-      background-color: #222;
-      padding: 2rem 1rem;
-      box-sizing: border-box;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
+.sidebar {
+  width: 280px;
+  background-color: #0366d6;
+  padding: 2rem 1rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
 
-    .sidebar img {
-      width: 160px;
-      height: 160px;
-      border-radius: 50%;
-      object-fit: cover;
-      margin-bottom: 1rem;
-    }
+.sidebar img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
 
-    .sidebar h1 {
-      margin: 0.5rem 0 0.2rem;
-      font-size: 1.4rem;
-    }
+.sidebar h1 {
+  margin: 0.5rem 0 0.2rem;
+  font-size: 1.4rem;
+}
 
-    .sidebar p {
-      font-size: 0.9rem;
-      margin: 0.2rem 0;
-      text-align: center;
-    }
+.sidebar p {
+  font-size: 0.9rem;
+  margin: 0.2rem 0;
+  text-align: center;
+}
 
-    .main-content {
-      flex-grow: 1;
-      padding: 2rem;
-      max-width: 900px;
-      margin: 0 auto;
-    }
+.main-content {
+  flex-grow: 1;
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
 
-    . {
-      margin: 1rem 0 2rem;
-      text-align: center;
-    }
+.navbar {
+  margin: 1rem 0 2rem;
+  text-align: center;
+}
 
-    . a {
-      color: white;
-      text-decoration: none;
-      margin: 0 0.5rem;
-    }
+.navbar a {
+  color: #0366d6;
+  text-decoration: none;
+  margin: 0 0.5rem;
+  font-weight: bold;
+}
 
-    . a:hover {
-      text-decoration: underline;
-    }
+.navbar a:hover {
+  text-decoration: underline;
+}
 
-    footer {
-      text-align: center;
-      margin-top: 2rem;
-      color: #aaa;
-    }
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  color: #555;
+}
 
-    @media (max-width: 768px) {
+/* Responsive */
+@media (max-width: 768px) {
   body {
     flex-direction: column;
   }
@@ -91,14 +94,15 @@
     height: 80px;
   }
 
-  .sidebar h1, .sidebar p {
+  .sidebar h1,
+  .sidebar p {
     text-align: left;
   }
 
   .main-content {
     padding: 1rem;
   }
-}   
+}
   </style>
 </head>
 <body>
@@ -106,11 +110,10 @@
     <img src="/assets/images/PhotoCV.png" alt="Valentin Allard">
     <h1>Valentin Allard</h1>
     <p>Assistant professor</p>
-    <p>Nuclear Physics and Astrophysics</p>
+    <p style="font-size: 0.9rem; color: white; margin: 0;">Faculty of Physics, Warsaw University of Technology</p>
+    <p style="font-size: 0.9rem; color: white; margin: 0;">Koszykowa 75, 00-662 Warsaw</p>
     <p style="font-size: 0.9rem; color: white; margin: -0.5rem 0 0.1rem 0;">valentin.allard[at]pw.edu.pl</p>
     <p style="font-size: 0.9rem; color: white; margin: 0;">+48 789 598 536</p>
-    <p style="font-size: 0.9rem; color: white; margin: 0;">+48 789 598 536</p>
-    <p style="font-size: 0.9rem; color: white; margin: 0;">Koszykowa 75, 00-662 Warsaw</p>
   </div>
 
   <div class="main-content">
