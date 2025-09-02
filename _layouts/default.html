@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ page.title }} - Valentin Allard</title>
+
+  <!-- Style (copie depuis ton index.html) -->
+  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet" />
+  <style>
+    /* Tout ton CSS ici (body, sidebar, navbar, footer, etc.) */
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <img src="/assets/images/PhotoCV.png" alt="Valentin Allard">
+    <div>
+      <h1>Valentin Allard</h1>
+      <p>Assistant professor</p>
+      <div style="font-size: 0.9rem; color: white; line-height: 1.2; margin-top: 0.5rem; text-align: center;">
+        <p style="margin: 0;">Warsaw University of Technology</p>
+        <p style="margin: 0;">Faculty of Physics</p>
+        <p style="margin: 0;">Koszykowa 75, 00-662 Warsaw</p>
+        <p style="margin: 0.2rem 0 0;"><a href="mailto:valentin.allard@pw.edu.pl" style="color: white; text-decoration: underline;">valentin.allard[at]pw.edu.pl</a></p>
+        <p style="margin: 0;">+48 789 598 536</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="main-content">
+    <nav class="navbar">
+      <a href="/">Home</a>
+      <a href="/thesis/">Thesis</a>
+      <a href="/cv/">CV</a>
+      <a href="/publications/">Publications</a>
+      <a href="/teaching/">Teaching</a>
+      <a href="/talks/">Talks</a>
+      <a href="/graphics/">Graphics</a>
+    </nav>
+
+    <div class="content">
+      {{ content }}
+    </div>
+
+    <footer class="footer">
+      <p>&copy; 2025 Valentin Allard</p>
+    </footer>
+  </div>
+</body>
+</html>
